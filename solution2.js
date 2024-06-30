@@ -19,5 +19,5 @@ function speedDetector(speed) {
 }
 
 //speedDetector(80);
-speedDetector(130);
+//speedDetector(130);
  
