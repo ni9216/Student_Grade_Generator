@@ -25,7 +25,7 @@ Git clone https://github.com/ni9216/Student_Grade_Generator
 Javascript
 
 ## Support and contact details
-github.com/m11toh
+github.com/ni9216
 
 ### License
 The content of this site is licensed under the MIT license
